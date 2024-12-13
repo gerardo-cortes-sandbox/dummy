@@ -14,7 +14,7 @@ mvn clean package
 
 Run
 ```shell
-java -jar target/dummy-1.0-SNAPSHOT.jar
+java -jar target/dummy-0.0.1-SNAPSHOT.jar
 ```
 
 Containerize
